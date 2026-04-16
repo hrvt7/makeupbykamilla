@@ -6,9 +6,12 @@ export default function Footer() {
           {/* Logo */}
           <div className="flex flex-col items-center md:items-start gap-2.5">
             <div className="flex items-center gap-2.5">
-              <div className="h-8 w-8 rounded-full bg-gradient-to-br from-primary to-primary-dark flex items-center justify-center">
-                <span className="font-heading font-bold text-white text-sm">K</span>
-              </div>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src="/images/hero-kamilla.webp"
+                alt="Kovacsik Kamilla"
+                className="h-8 w-8 rounded-full object-cover"
+              />
               <span className="font-heading text-lg font-bold tracking-[-0.02em] text-foreground">
                 Makeup by Kamilla
               </span>
