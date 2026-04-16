@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import ServicePage from "@/components/ServicePage";
 
 export const metadata: Metadata = {
-  title: "Menyasszonyi smink Győrben és Tapolcán — Makeup by Kamilla",
-  description: "Menyasszonyi smink Győrben és Tapolcán. HD termékek, vízálló rögzítés, helyszínre szállás. Próbasminkkel, személyre szabott stílussal. Kovacsik Kamilla sminkes.",
+  title: "Menyasszonyi smink Városodban — Makeup by Anna",
+  description: "Menyasszonyi smink Városodban. HD termékek, vízálló rögzítés, helyszínre szállás. Próbasminkkel, személyre szabott stílussal. Minta Anna sminkes.",
   alternates: { canonical: "https://makeupbykamilla.vercel.app/menyasszonyi-smink" },
 };
 
@@ -11,11 +11,11 @@ const serviceSchema = {
   "@context": "https://schema.org",
   "@type": "Service",
   name: "Menyasszonyi smink",
-  description: "Professzionális menyasszonyi smink HD termékekkel, próbasminkkel, helyszínre szállással Győr és Tapolca környékén.",
+  description: "Professzionális menyasszonyi smink HD termékekkel, próbasminkkel, helyszínre szállással Város és Környék környékén.",
   provider: { "@id": "https://makeupbykamilla.vercel.app/#business" },
   areaServed: [
-    { "@type": "City", name: "Győr" },
-    { "@type": "City", name: "Tapolca" },
+    { "@type": "City", name: "Város" },
+    { "@type": "City", name: "Környék" },
   ],
 };
 
@@ -44,7 +44,7 @@ const faqSchema = {
       name: "Helyszínre is kimész?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Igen, Győr és Tapolca környékén szívesen kiszállok az esküvői helyszínre vagy a szállásra. Kiszállási díj a távolságtól függ, ezt foglaláskor egyeztetjük.",
+        text: "Igen, Város és Környék környékén szívesen kiszállok az esküvői helyszínre vagy a szállásra. Kiszállási díj a távolságtól függ, ezt foglaláskor egyeztetjük.",
       },
     },
     {
@@ -72,7 +72,7 @@ export default function Page() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <ServicePage
-        title="Menyasszonyi smink Győrben és Tapolcán"
+        title="Menyasszonyi smink Városodban"
         subtitle="Ragyogó, egész napig tartó smink életed legszebb napjára. Próbasminkkel, HD termékekkel, helyszínre szállással."
         gradient="from-[#D4B8B8] via-[#E8CFCF] to-[#F5E4E4]"
         image="/images/service-menyasszonyi.webp"

@@ -36,7 +36,7 @@ export default function Hero() {
           <div className="lg:col-span-7 text-center lg:text-left">
             <FadeIn>
               <p className="text-sm font-semibold text-[#E8D4D4] uppercase tracking-wider mb-4">
-                Sminkes — Győr &amp; Tapolca
+                Sminkes — Város &amp; Környék
               </p>
               <h1
                 className="font-heading font-extrabold leading-[1.08] tracking-[-0.03em] text-white drop-shadow-sm"
@@ -53,7 +53,7 @@ export default function Hero() {
             <FadeIn delay={0.12}>
               <p className="mt-7 text-lg leading-relaxed text-[#E5DDD3] max-w-[540px] mx-auto lg:mx-0">
                 Menyasszonyi, alkalmi, nappali és fotó smink profi kivitelben.
-                Professzionális termékekkel, személyre szabott stílussal — Győrben és Tapolcán.
+                Professzionális termékekkel, személyre szabott stílussal — Városodban.
               </p>
             </FadeIn>
 
@@ -79,7 +79,7 @@ export default function Hero() {
             </FadeIn>
           </div>
 
-          {/* Right — Kamilla card */}
+          {/* Right — profile card */}
           <div className="lg:col-span-5 flex justify-center lg:justify-end">
             <FadeIn direction="right" delay={0.2}>
               <div className="relative max-w-[320px]">
@@ -89,15 +89,15 @@ export default function Hero() {
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img
                       src="/images/hero-kamilla.webp"
-                      alt="Kovacsik Kamilla sminkes"
+                      alt="Minta Anna sminkes"
                       className="w-full h-full object-cover"
                     />
                   </div>
                   <div className="p-4 text-center">
-                    <h3 className="font-heading font-bold text-foreground text-base">Kovacsik Kamilla</h3>
-                    <p className="text-xs text-foreground-muted mt-0.5">Sminkes — Győr &amp; Tapolca</p>
+                    <h3 className="font-heading font-bold text-foreground text-base">Minta Anna</h3>
+                    <p className="text-xs text-foreground-muted mt-0.5">Sminkes — Város &amp; Környék</p>
                     <a
-                      href="https://www.instagram.com/kovacsik_kamilla_sminkes/"
+                      href="https://www.instagram.com/mintaanna_sminkes/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center justify-center gap-2 w-full rounded-xl bg-primary/8 text-primary font-bold text-xs py-2.5 mt-3 hover:bg-primary/15 transition-colors"
@@ -107,7 +107,7 @@ export default function Hero() {
                         <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
                         <line x1="17.5" y1="6.5" x2="17.51" y2="6.5" />
                       </svg>
-                      @kovacsik_kamilla_sminkes
+                      @mintaanna_sminkes
                     </a>
                   </div>
                 </div>

@@ -8,7 +8,7 @@ const services = [
     title: "Menyasszonyi smink",
     href: "/menyasszonyi-smink",
     short: "Ragyogó, egész napig tartó smink életed legszebb napjára.",
-    detail: "A menyasszonyi smink egy személyre szabott alkotási folyamat — próbasmink keretében közösen megtaláljuk azt a stílust és színvilágot, amely kiemeli a természetes szépségedet. HD alapanyagokkal, vízálló szempillával és hosszan tartó rögzítéssel dolgozom, hogy a smink a ceremónia, a fotózás és a buli végéig is kifogástalan maradjon. Helyszínre szállás Győr és Tapolca környékén lehetséges.",
+    detail: "A menyasszonyi smink egy személyre szabott alkotási folyamat — próbasmink keretében közösen megtaláljuk azt a stílust és színvilágot, amely kiemeli a természetes szépségedet. HD alapanyagokkal, vízálló szempillával és hosszan tartó rögzítéssel dolgozom, hogy a smink a ceremónia, a fotózás és a buli végéig is kifogástalan maradjon. Helyszínre szállás Város és Környék környékén lehetséges.",
     image: "/images/service-menyasszonyi.webp",
   },
   {

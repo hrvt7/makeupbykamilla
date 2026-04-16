@@ -22,7 +22,7 @@ export default function Schedule() {
               <span className="text-highlight">érsz rám?</span>
             </h2>
             <p className="mt-4 text-foreground-secondary text-lg">
-              Rugalmasan dolgozom — Győrben, Tapolcán és helyszínre szállva.
+              Rugalmasan dolgozom — Városodban, a környéken és helyszínre szállva.
             </p>
           </div>
         </FadeIn>

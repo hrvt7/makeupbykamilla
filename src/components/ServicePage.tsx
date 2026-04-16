@@ -76,7 +76,7 @@ export default function ServicePage({ title, subtitle, gradient, image, sections
               </p>
               <div className="flex flex-col sm:flex-row gap-3">
                 <a
-                  href="https://www.instagram.com/kovacsik_kamilla_sminkes/"
+                  href="https://www.instagram.com/mintaanna_sminkes/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2.5 rounded-xl bg-accent px-6 py-3.5 text-sm font-bold text-white shadow-lg shadow-accent/20 cta-glow"
@@ -89,7 +89,7 @@ export default function ServicePage({ title, subtitle, gradient, image, sections
                   Instagram DM
                 </a>
                 <a
-                  href="mailto:kapcsolat@makeupbykamilla.hu"
+                  href="mailto:hello@mintaanna.hu"
                   className="inline-flex items-center gap-2.5 rounded-xl border-2 border-primary/20 px-6 py-3.5 text-sm font-bold text-primary hover:bg-primary/5 transition-colors"
                 >
                   <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">

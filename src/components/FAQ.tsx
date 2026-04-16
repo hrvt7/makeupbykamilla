@@ -6,11 +6,11 @@ import FadeIn from "./FadeIn";
 const faqs = [
   {
     q: "Hogyan tudok időpontot foglalni?",
-    a: "Időpontot Instagram DM-ben (@kovacsik_kamilla_sminkes) vagy emailben tudsz foglalni. Menyasszonyi sminkhez legalább 1-2 hónappal előre javaslom a foglalást, hogy a próbasminkre is jusson idő.",
+    a: "Időpontot Instagram DM-ben (@mintaanna_sminkes) vagy emailben tudsz foglalni. Menyasszonyi sminkhez legalább 1-2 hónappal előre javaslom a foglalást, hogy a próbasminkre is jusson idő.",
   },
   {
     q: "Hol készülnek a sminkek?",
-    a: "Győrben és Tapolcán egyaránt dolgozom. Menyasszonyi smink esetén helyszínre is kiszállok — a pontos feltételeket a foglaláskor egyeztetjük.",
+    a: "Városodban egyaránt dolgozom. Menyasszonyi smink esetén helyszínre is kiszállok — a pontos feltételeket a foglaláskor egyeztetjük.",
   },
   {
     q: "Mennyi ideig tart egy smink?",

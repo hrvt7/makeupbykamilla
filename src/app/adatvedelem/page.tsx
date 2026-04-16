@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Adatvédelmi tájékoztató — Makeup by Kamilla",
-  description: "A Makeup by Kamilla adatvédelmi tájékoztatója.",
+  title: "Adatvédelmi tájékoztató — Makeup by Anna",
+  description: "A Makeup by Anna adatvédelmi tájékoztatója.",
   alternates: {
     canonical: "https://makeupbykamilla.vercel.app/adatvedelem",
   },
@@ -26,7 +26,7 @@ export default function Adatvedelem() {
 
         <div className="max-w-none text-foreground-secondary space-y-6 leading-relaxed">
           <p>
-            A Makeup by Kamilla (továbbiakban: Szolgáltató, Adatkezelő) elkötelezett a
+            A Makeup by Anna (továbbiakban: Szolgáltató, Adatkezelő) elkötelezett a
             vendégek személyes adatainak védelme mellett. Jelen tájékoztató az EU 2016/679
             számú általános adatvédelmi rendelete (GDPR) és a magyar 2011. évi CXII.
             törvény (Infotv.) alapján készült.
@@ -34,13 +34,13 @@ export default function Adatvedelem() {
 
           <h2 className="text-xl font-bold text-foreground">1. Adatkezelő adatai</h2>
           <p>
-            Név: Kovacsik Kamilla (Makeup by Kamilla)
+            Név: Minta Anna (Makeup by Anna)
             <br />
-            Tevékenységi hely: Győr &amp; Tapolca
+            Tevékenységi hely: Város &amp; Környék
             <br />
-            Email: kapcsolat@makeupbykamilla.hu
+            Email: hello@mintaanna.hu
             <br />
-            Instagram: @kovacsik_kamilla_sminkes
+            Instagram: @mintaanna_sminkes
           </p>
 
           <h2 className="text-xl font-bold text-foreground">2. Az adatkezelés jogalapja</h2>
@@ -107,7 +107,7 @@ export default function Adatvedelem() {
             <li>Hozzájárulás visszavonása</li>
           </ul>
           <p>
-            Jogait a kapcsolat@makeupbykamilla.hu email címen gyakorolhatja. 30 napon belül
+            Jogait a hello@mintaanna.hu email címen gyakorolhatja. 30 napon belül
             válaszolunk.
           </p>
 

@@ -22,27 +22,27 @@ const body = DM_Sans({
 export const metadata: Metadata = {
   metadataBase: new URL("https://makeupbykamilla.vercel.app"),
   title: {
-    default: "Makeup by Kamilla Kovacsik — Sminkes | Győr & Tapolca",
-    template: "%s | Makeup by Kamilla",
+    default: "Makeup by Anna Minta — Sminkes | Város & Környék",
+    template: "%s | Makeup by Anna",
   },
   description:
-    "Professzionális sminkes Győrben és Tapolcán. Menyasszonyi, alkalmi, nappali és fotó smink. Kovacsik Kamilla — természetes szépség, maradandó élmény.",
+    "Professzionális sminkes Városodban. Menyasszonyi, alkalmi, nappali és fotó smink. Minta Anna — természetes szépség, maradandó élmény.",
   keywords:
-    "sminkes győr, sminkes tapolca, menyasszonyi smink győr, alkalmi smink győr, nappali smink, fotó smink, érettségi smink, Kovacsik Kamilla, makeup artist győr",
+    "sminkes győr, sminkes tapolca, menyasszonyi smink győr, alkalmi smink győr, nappali smink, fotó smink, érettségi smink, Minta Anna, makeup artist győr",
   openGraph: {
-    title: "Makeup by Kamilla Kovacsik — Sminkes | Győr & Tapolca",
+    title: "Makeup by Anna Minta — Sminkes | Város & Környék",
     description:
-      "Professzionális sminkes Győrben és Tapolcán. Menyasszonyi, alkalmi, nappali és fotó smink.",
+      "Professzionális sminkes Városodban. Menyasszonyi, alkalmi, nappali és fotó smink.",
     url: "https://makeupbykamilla.vercel.app",
-    siteName: "Makeup by Kamilla Kovacsik",
+    siteName: "Makeup by Anna Minta",
     locale: "hu_HU",
     type: "website",
   },
   twitter: {
     card: "summary",
-    title: "Makeup by Kamilla Kovacsik — Sminkes | Győr & Tapolca",
+    title: "Makeup by Anna Minta — Sminkes | Város & Környék",
     description:
-      "Professzionális sminkes Győrben és Tapolcán.",
+      "Professzionális sminkes Városodban.",
   },
   robots: { index: true, follow: true },
   alternates: {
@@ -67,30 +67,30 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "BeautySalon",
               "@id": "https://makeupbykamilla.vercel.app/#business",
-              name: "Makeup by Kamilla Kovacsik",
+              name: "Makeup by Anna Minta",
               description:
-                "Professzionális sminkes Győrben és Tapolcán. Menyasszonyi, alkalmi, nappali, fotó és érettségi smink. Kovacsik Kamilla — természetes, tartós smink minden alkalomra.",
+                "Professzionális sminkes Városodban. Menyasszonyi, alkalmi, nappali, fotó és érettségi smink. Minta Anna — természetes, tartós smink minden alkalomra.",
               url: "https://makeupbykamilla.vercel.app",
-              email: "kapcsolat@makeupbykamilla.hu",
+              email: "hello@mintaanna.hu",
               image: "https://makeupbykamilla.vercel.app/images/kamilla.webp",
               address: [
                 {
                   "@type": "PostalAddress",
-                  addressLocality: "Győr",
+                  addressLocality: "Város",
                   addressCountry: "HU",
                 },
                 {
                   "@type": "PostalAddress",
-                  addressLocality: "Tapolca",
+                  addressLocality: "Környék",
                   addressCountry: "HU",
                 },
               ],
               areaServed: [
-                { "@type": "City", name: "Győr" },
-                { "@type": "City", name: "Tapolca" },
+                { "@type": "City", name: "Város" },
+                { "@type": "City", name: "Környék" },
               ],
               sameAs: [
-                "https://www.instagram.com/kovacsik_kamilla_sminkes/",
+                "https://www.instagram.com/mintaanna_sminkes/",
               ],
               priceRange: "$$",
               makesOffer: [
@@ -112,16 +112,16 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "Person",
               "@id": "https://makeupbykamilla.vercel.app/#person",
-              name: "Kovacsik Kamilla",
+              name: "Minta Anna",
               jobTitle: "Sminkes / Makeup Artist",
               worksFor: { "@id": "https://makeupbykamilla.vercel.app/#business" },
               url: "https://makeupbykamilla.vercel.app",
               sameAs: [
-                "https://www.instagram.com/kovacsik_kamilla_sminkes/",
+                "https://www.instagram.com/mintaanna_sminkes/",
               ],
               address: [
-                { "@type": "PostalAddress", addressLocality: "Győr", addressCountry: "HU" },
-                { "@type": "PostalAddress", addressLocality: "Tapolca", addressCountry: "HU" },
+                { "@type": "PostalAddress", addressLocality: "Város", addressCountry: "HU" },
+                { "@type": "PostalAddress", addressLocality: "Környék", addressCountry: "HU" },
               ],
             }),
           }}

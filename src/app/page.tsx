@@ -31,7 +31,7 @@ export default function Home() {
                 name: "Hol készülnek a sminkek?",
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: "Győrben és Tapolcán egyaránt dolgozom. Menyasszonyi smink esetén helyszínre is kiszállok — a pontos feltételeket a foglaláskor egyeztetjük.",
+                  text: "Városodban egyaránt dolgozom. Menyasszonyi smink esetén helyszínre is kiszállok — a pontos feltételeket a foglaláskor egyeztetjük.",
                 },
               },
               {

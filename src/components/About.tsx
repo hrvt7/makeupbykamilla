@@ -13,7 +13,7 @@ const benefits = [
   },
   {
     title: "Helyszínre kiszállás",
-    desc: "Menyasszonyi smink esetén Győr és Tapolca környékén a szállásra, esküvői helyszínre is érkezem.",
+    desc: "Menyasszonyi smink esetén Város és Környék környékén a szállásra, esküvői helyszínre is érkezem.",
     image: "/images/about-helyszin.webp",
   },
   {
@@ -37,7 +37,7 @@ export default function About() {
               <span className="text-highlight">válassz engem?</span>
             </h2>
             <p className="mt-6 text-lg text-foreground-secondary leading-relaxed max-w-xl mx-auto">
-              Kovacsik Kamilla vagyok — szenvedélyes sminkes Győrből és Tapolcáról.
+              Minta Anna vagyok — szenvedélyes sminkes a környékről.
               A célom, hogy minden vendégem önmagához hű, magabiztos és gyönyörű legyen.
             </p>
             <p className="mt-4 text-foreground-muted leading-relaxed max-w-xl mx-auto">

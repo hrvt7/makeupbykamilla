@@ -35,22 +35,22 @@ export default function Header() {
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src="/images/hero-kamilla.webp"
-              alt="Kovacsik Kamilla"
+              alt="Minta Anna"
               className="h-11 w-11 rounded-full object-cover ring-2 ring-white/30"
             />
             <div className="flex flex-col leading-tight">
               <span className={`text-base sm:text-lg font-heading font-bold tracking-[-0.02em] transition-colors ${scrolled ? "text-foreground" : "text-white drop-shadow-sm"}`}>
-                Makeup by Kamilla
+                Makeup by Anna
               </span>
               <span className={`text-xs font-medium transition-colors ${scrolled ? "text-foreground-muted" : "text-white/80 drop-shadow-sm"}`}>
-                Sminkes — Győr &amp; Tapolca
+                Sminkes — Város &amp; Környék
               </span>
             </div>
           </a>
 
           {/* Instagram — mobile */}
           <a
-            href="https://www.instagram.com/kovacsik_kamilla_sminkes/"
+            href="https://www.instagram.com/mintaanna_sminkes/"
             target="_blank"
             rel="noopener noreferrer"
             className={`md:hidden flex items-center gap-1.5 font-semibold text-sm transition-colors ${scrolled ? "text-foreground" : "text-white drop-shadow-sm"}`}

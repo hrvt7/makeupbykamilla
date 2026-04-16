@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import ServicePage from "@/components/ServicePage";
 
 export const metadata: Metadata = {
-  title: "Fotó smink Győrben és Tapolcán — Makeup by Kamilla",
-  description: "Fotó smink portré-, divat- és terhes fotózáshoz Győrben és Tapolcán. Kamerára optimalizált, HD termékek. Kovacsik Kamilla sminkes.",
+  title: "Fotó smink Városodban — Makeup by Anna",
+  description: "Fotó smink portré-, divat- és terhes fotózáshoz Városodban. Kamerára optimalizált, HD termékek. Minta Anna sminkes.",
   alternates: { canonical: "https://makeupbykamilla.vercel.app/foto-smink" },
 };
 

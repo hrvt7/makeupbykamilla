@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Általános Szerződési Feltételek — Makeup by Kamilla",
-  description: "A Makeup by Kamilla általános szerződési feltételei.",
+  title: "Általános Szerződési Feltételek — Makeup by Anna",
+  description: "A Makeup by Anna általános szerződési feltételei.",
   alternates: {
     canonical: "https://makeupbykamilla.vercel.app/aszf",
   },
@@ -29,18 +29,18 @@ export default function ASZF() {
 
           <h2 className="text-xl font-bold text-foreground">1. Szolgáltató adatai</h2>
           <p>
-            Név: Kovacsik Kamilla (Makeup by Kamilla)
+            Név: Minta Anna (Makeup by Anna)
             <br />
-            Tevékenységi hely: Győr &amp; Tapolca
+            Tevékenységi hely: Város &amp; Környék
             <br />
-            Email: kapcsolat@makeupbykamilla.hu
+            Email: hello@mintaanna.hu
             <br />
-            Instagram: @kovacsik_kamilla_sminkes
+            Instagram: @mintaanna_sminkes
           </p>
 
           <h2 className="text-xl font-bold text-foreground">2. A szolgáltatás leírása</h2>
           <p>
-            A Makeup by Kamilla professzionális sminkszolgáltatást nyújt: menyasszonyi
+            A Makeup by Anna professzionális sminkszolgáltatást nyújt: menyasszonyi
             smink, alkalmi smink, nappali smink, fotó smink, érettségi és bál smink,
             próbasmink. A szolgáltatás helyszíne a Szolgáltató sminkelőhelye vagy a
             vendég által megadott helyszín (helyszínre szállás esetén).
@@ -95,7 +95,7 @@ export default function ASZF() {
 
           <h2 className="text-xl font-bold text-foreground">9. Panaszkezelés</h2>
           <p>
-            Panasz esetén írj a kapcsolat@makeupbykamilla.hu email címre. A Szolgáltató
+            Panasz esetén írj a hello@mintaanna.hu email címre. A Szolgáltató
             14 napon belül válaszol. Fogyasztói jogvita esetén a lakóhely szerint
             illetékes békéltető testülethez vagy bírósághoz fordulhatsz.
           </p>

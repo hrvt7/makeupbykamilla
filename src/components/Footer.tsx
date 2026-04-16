@@ -9,15 +9,15 @@ export default function Footer() {
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 src="/images/hero-kamilla.webp"
-                alt="Kovacsik Kamilla"
+                alt="Minta Anna"
                 className="h-8 w-8 rounded-full object-cover"
               />
               <span className="font-heading text-lg font-bold tracking-[-0.02em] text-foreground">
-                Makeup by Kamilla
+                Makeup by Anna
               </span>
             </div>
             <p className="text-sm text-foreground-muted max-w-xs text-center md:text-left">
-              Professzionális sminkes Győrben és Tapolcán. Menyasszonyi, alkalmi, nappali és fotó smink.
+              Professzionális sminkes Városodban. Menyasszonyi, alkalmi, nappali és fotó smink.
             </p>
           </div>
 
@@ -34,17 +34,17 @@ export default function Footer() {
           <div className="flex flex-col items-center md:items-start gap-3 text-sm text-foreground-muted">
             <p className="font-heading font-semibold text-foreground-secondary text-xs uppercase tracking-wider">Elérhetőségek</p>
             <a
-              href="https://www.instagram.com/kovacsik_kamilla_sminkes/"
+              href="https://www.instagram.com/mintaanna_sminkes/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-primary transition-colors duration-200"
             >
-              @kovacsik_kamilla_sminkes
+              @mintaanna_sminkes
             </a>
-            <a href="mailto:kapcsolat@makeupbykamilla.hu" className="hover:text-primary transition-colors duration-200">
-              kapcsolat@makeupbykamilla.hu
+            <a href="mailto:hello@mintaanna.hu" className="hover:text-primary transition-colors duration-200">
+              hello@mintaanna.hu
             </a>
-            <span>Győr &amp; Tapolca</span>
+            <span>Város &amp; Környék</span>
             <a href="/adatvedelem" className="hover:text-primary transition-colors duration-200">
               Adatvédelmi tájékoztató
             </a>
@@ -57,10 +57,10 @@ export default function Footer() {
         {/* Bottom */}
         <div className="mt-10 pt-8 border-t border-border-light text-center text-xs text-foreground-muted leading-relaxed space-y-1">
           <p>
-            <strong className="text-foreground-secondary">Makeup by Kamilla Kovacsik</strong> — Sminkes, Győr &amp; Tapolca
+            <strong className="text-foreground-secondary">Makeup by Anna Minta</strong> — Sminkes, Város &amp; Környék
           </p>
           <p className="pt-2">
-            &copy; {new Date().getFullYear()} Kovacsik Kamilla. Minden jog fenntartva.
+            &copy; {new Date().getFullYear()} Minta Anna. Minden jog fenntartva.
           </p>
         </div>
       </div>
