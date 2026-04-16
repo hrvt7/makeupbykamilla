@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Általános Szerződési Feltételek — Makeup by Anna",
   description: "A Makeup by Anna általános szerződési feltételei.",
   alternates: {
-    canonical: "https://makeupbykamilla.vercel.app/aszf",
+    canonical: "https://sminkes-minta.vercel.app/aszf",
   },
 };
 

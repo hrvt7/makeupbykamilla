@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://makeupbykamilla.vercel.app/</loc>
+    <loc>https://sminkes-minta.vercel.app/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://makeupbykamilla.vercel.app/sminkes-gyor</loc>
+    <loc>https://sminkes-minta.vercel.app/sminkes-gyor</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://makeupbykamilla.vercel.app/menyasszonyi-smink</loc>
+    <loc>https://sminkes-minta.vercel.app/menyasszonyi-smink</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://makeupbykamilla.vercel.app/alkalmi-smink</loc>
+    <loc>https://sminkes-minta.vercel.app/alkalmi-smink</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://makeupbykamilla.vercel.app/nappali-smink</loc>
+    <loc>https://sminkes-minta.vercel.app/nappali-smink</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://makeupbykamilla.vercel.app/foto-smink</loc>
+    <loc>https://sminkes-minta.vercel.app/foto-smink</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://makeupbykamilla.vercel.app/erettsegi-bal-smink</loc>
+    <loc>https://sminkes-minta.vercel.app/erettsegi-bal-smink</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://makeupbykamilla.vercel.app/probasmink</loc>
+    <loc>https://sminkes-minta.vercel.app/probasmink</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://makeupbykamilla.vercel.app/adatvedelem</loc>
+    <loc>https://sminkes-minta.vercel.app/adatvedelem</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://makeupbykamilla.vercel.app/aszf</loc>
+    <loc>https://sminkes-minta.vercel.app/aszf</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>

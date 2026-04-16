@@ -8,16 +8,16 @@ Minta Anna vagyok, szenvedélyes sminkes a környékről. A célom, hogy minden 
 
 ## Szolgáltatások
 
-- [Menyasszonyi smink](https://makeupbykamilla.vercel.app/menyasszonyi-smink) — próbasminktől az esküvő napjáig, HD termékekkel, helyszínre szállással
-- [Alkalmi smink](https://makeupbykamilla.vercel.app/alkalmi-smink) — céges rendezvényre, esküvői vendégnek, koszorúslánynak
-- [Nappali smink](https://makeupbykamilla.vercel.app/nappali-smink) — természetes, üzleti találkozóra, randira
-- [Fotó smink](https://makeupbykamilla.vercel.app/foto-smink) — portré, divat, terhes fotózásra
-- [Érettségi és bál smink](https://makeupbykamilla.vercel.app/erettsegi-bal-smink) — szalagavató, ballagás, bál
-- [Próbasmink](https://makeupbykamilla.vercel.app/probasmink) — közös tervezés a nagy napra
+- [Menyasszonyi smink](https://sminkes-minta.vercel.app/menyasszonyi-smink) — próbasminktől az esküvő napjáig, HD termékekkel, helyszínre szállással
+- [Alkalmi smink](https://sminkes-minta.vercel.app/alkalmi-smink) — céges rendezvényre, esküvői vendégnek, koszorúslánynak
+- [Nappali smink](https://sminkes-minta.vercel.app/nappali-smink) — természetes, üzleti találkozóra, randira
+- [Fotó smink](https://sminkes-minta.vercel.app/foto-smink) — portré, divat, terhes fotózásra
+- [Érettségi és bál smink](https://sminkes-minta.vercel.app/erettsegi-bal-smink) — szalagavató, ballagás, bál
+- [Próbasmink](https://sminkes-minta.vercel.app/probasmink) — közös tervezés a nagy napra
 
 ## Pillar oldalak
 
-- [Sminkes Város](https://makeupbykamilla.vercel.app/sminkes-gyor) — professzionális makeup artist Városodban
+- [Sminkes Város](https://sminkes-minta.vercel.app/sminkes-gyor) — professzionális makeup artist Városodban
 
 ## Kapcsolat
 
@@ -27,9 +27,9 @@ Minta Anna vagyok, szenvedélyes sminkes a környékről. A célom, hogy minden 
 
 ## Kulcsszavak
 
-sminkes győr, sminkes tapolca, menyasszonyi smink győr, menyasszonyi smink tapolca, alkalmi smink győr, fotó smink győr, érettségi smink győr, nappali smink győr, makeup artist győr, Minta Anna, próbasmink győr, helyszínre szálló sminkes
+sminkes város, sminkes környék, menyasszonyi smink város, menyasszonyi smink környék, alkalmi smink város, fotó smink város, érettségi smink város, nappali smink város, makeup artist város, Minta Anna, próbasmink város, helyszínre szálló sminkes
 
 ## Jogi oldalak
 
-- [Adatvédelmi tájékoztató](https://makeupbykamilla.vercel.app/adatvedelem)
-- [Általános Szerződési Feltételek](https://makeupbykamilla.vercel.app/aszf)
+- [Adatvédelmi tájékoztató](https://sminkes-minta.vercel.app/adatvedelem)
+- [Általános Szerződési Feltételek](https://sminkes-minta.vercel.app/aszf)

@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Adatvédelmi tájékoztató — Makeup by Anna",
   description: "A Makeup by Anna adatvédelmi tájékoztatója.",
   alternates: {
-    canonical: "https://makeupbykamilla.vercel.app/adatvedelem",
+    canonical: "https://sminkes-minta.vercel.app/adatvedelem",
   },
 };
 

@@ -20,7 +20,7 @@ const body = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://makeupbykamilla.vercel.app"),
+  metadataBase: new URL("https://sminkes-minta.vercel.app"),
   title: {
     default: "Makeup by Anna Minta — Sminkes | Város & Környék",
     template: "%s | Makeup by Anna",
@@ -28,12 +28,12 @@ export const metadata: Metadata = {
   description:
     "Professzionális sminkes Városodban. Menyasszonyi, alkalmi, nappali és fotó smink. Minta Anna — természetes szépség, maradandó élmény.",
   keywords:
-    "sminkes győr, sminkes tapolca, menyasszonyi smink győr, alkalmi smink győr, nappali smink, fotó smink, érettségi smink, Minta Anna, makeup artist győr",
+    "sminkes város, sminkes környék, menyasszonyi smink város, alkalmi smink város, nappali smink, fotó smink, érettségi smink, Minta Anna, makeup artist város",
   openGraph: {
     title: "Makeup by Anna Minta — Sminkes | Város & Környék",
     description:
       "Professzionális sminkes Városodban. Menyasszonyi, alkalmi, nappali és fotó smink.",
-    url: "https://makeupbykamilla.vercel.app",
+    url: "https://sminkes-minta.vercel.app",
     siteName: "Makeup by Anna Minta",
     locale: "hu_HU",
     type: "website",
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true },
   alternates: {
-    canonical: "https://makeupbykamilla.vercel.app",
+    canonical: "https://sminkes-minta.vercel.app",
   },
 };
 
@@ -66,13 +66,13 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "BeautySalon",
-              "@id": "https://makeupbykamilla.vercel.app/#business",
+              "@id": "https://sminkes-minta.vercel.app/#business",
               name: "Makeup by Anna Minta",
               description:
                 "Professzionális sminkes Városodban. Menyasszonyi, alkalmi, nappali, fotó és érettségi smink. Minta Anna — természetes, tartós smink minden alkalomra.",
-              url: "https://makeupbykamilla.vercel.app",
+              url: "https://sminkes-minta.vercel.app",
               email: "hello@mintaanna.hu",
-              image: "https://makeupbykamilla.vercel.app/images/kamilla.webp",
+              image: "https://sminkes-minta.vercel.app/images/kamilla.webp",
               address: [
                 {
                   "@type": "PostalAddress",
@@ -111,11 +111,11 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Person",
-              "@id": "https://makeupbykamilla.vercel.app/#person",
+              "@id": "https://sminkes-minta.vercel.app/#person",
               name: "Minta Anna",
               jobTitle: "Sminkes / Makeup Artist",
-              worksFor: { "@id": "https://makeupbykamilla.vercel.app/#business" },
-              url: "https://makeupbykamilla.vercel.app",
+              worksFor: { "@id": "https://sminkes-minta.vercel.app/#business" },
+              url: "https://sminkes-minta.vercel.app",
               sameAs: [
                 "https://www.instagram.com/mintaanna_sminkes/",
               ],

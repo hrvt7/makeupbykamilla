@@ -4,7 +4,7 @@ import ServicePage from "@/components/ServicePage";
 export const metadata: Metadata = {
   title: "Sminkes Városodban — Makeup by Anna Minta",
   description: "Sminkes Városodban — menyasszonyi, alkalmi, nappali, fotó és érettségi smink. Professzionális termékek, személyre szabott stílus. Minta Anna.",
-  alternates: { canonical: "https://makeupbykamilla.vercel.app/sminkes-gyor" },
+  alternates: { canonical: "https://sminkes-minta.vercel.app/sminkes-gyor" },
 };
 
 export default function Page() {

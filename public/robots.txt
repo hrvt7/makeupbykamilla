@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://makeupbykamilla.vercel.app/sitemap.xml
+Sitemap: https://sminkes-minta.vercel.app/sitemap.xml
 
 # AI crawlers — explicitly allowed
 User-agent: GPTBot
@@ -22,4 +22,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-# https://makeupbykamilla.vercel.app/llms.txt
+# https://sminkes-minta.vercel.app/llms.txt

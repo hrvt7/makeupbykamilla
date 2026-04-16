@@ -4,7 +4,7 @@ import ServicePage from "@/components/ServicePage";
 export const metadata: Metadata = {
   title: "Fotó smink Városodban — Makeup by Anna",
   description: "Fotó smink portré-, divat- és terhes fotózáshoz Városodban. Kamerára optimalizált, HD termékek. Minta Anna sminkes.",
-  alternates: { canonical: "https://makeupbykamilla.vercel.app/foto-smink" },
+  alternates: { canonical: "https://sminkes-minta.vercel.app/foto-smink" },
 };
 
 const serviceSchema = {
@@ -12,7 +12,7 @@ const serviceSchema = {
   "@type": "Service",
   name: "Fotó smink",
   description: "Kamerára optimalizált smink portré-, divat-, terhes- és családi fotózáshoz.",
-  provider: { "@id": "https://makeupbykamilla.vercel.app/#business" },
+  provider: { "@id": "https://sminkes-minta.vercel.app/#business" },
 };
 
 export default function Page() {

@@ -4,7 +4,7 @@ import ServicePage from "@/components/ServicePage";
 export const metadata: Metadata = {
   title: "Érettségi és bál smink Városodban — Makeup by Anna",
   description: "Érettségi, szalagavató, bál smink Városodban. Fiatalos, estig kitartó, fotózáson is gyönyörű. Minta Anna sminkes.",
-  alternates: { canonical: "https://makeupbykamilla.vercel.app/erettsegi-bal-smink" },
+  alternates: { canonical: "https://sminkes-minta.vercel.app/erettsegi-bal-smink" },
 };
 
 const serviceSchema = {
@@ -12,7 +12,7 @@ const serviceSchema = {
   "@type": "Service",
   name: "Érettségi és bál smink",
   description: "Szalagavató, ballagás, érettségi bál, gála smink tizenéves bőrre szabva.",
-  provider: { "@id": "https://makeupbykamilla.vercel.app/#business" },
+  provider: { "@id": "https://sminkes-minta.vercel.app/#business" },
 };
 
 export default function Page() {
